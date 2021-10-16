@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+h1, h2 {
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+  color: white;
+  font-family: Oswald, sans-serif;
+}
+
+p {
+  color: antiquewhite;
+  text-align: center;
+  font-family: Oswald, sans-serif;
+}
+
+body {
+	background-image: url('./src/pexels-cottonbro-4709288.jpg');
+  opacity: 0.9;
+  width: '100%';
+}
+
+.bt {
+  border:1px;
+  border-radius:4px;
+  font-size:40px;
+  background-image: url(./src//pexels-cottonbro-4709288.jpg);
+  color: dodgerblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  color:whitesmoke;
+  font-style: italic;
+  font-family: Oswald, sans-serif;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  bottom: -10;
+}
+
+h3 {
+  font-size: 18px;
+}
